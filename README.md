@@ -1,7 +1,7 @@
 # Read-from-CSV
 
 ## AIM:
-To write a program to read the csv file and print head,tail and the number of rows and columns.
+To write a program to read contents from the csv file .
 
 ## Equipments Required:
 1. Hardware – PCs
@@ -34,4 +34,4 @@ print("Number of columns:",len(df.axes[1]))
 ## OUTPUT:
 ![read csv](<Screenshot 2024-01-02 113228.png>)
 ## RESULT:
-Thus the program to read a csv file  is written and verified using python programming.
+Thus the program to read contents from the csv file  is written and verified using python programming.
